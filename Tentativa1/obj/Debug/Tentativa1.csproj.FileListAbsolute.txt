@@ -1,0 +1,8 @@
+C:\Users\pamel\Downloads\Tentativa1\Tentativa1\bin\Debug\Tentativa1.exe.config
+C:\Users\pamel\Downloads\Tentativa1\Tentativa1\bin\Debug\Tentativa1.exe
+C:\Users\pamel\Downloads\Tentativa1\Tentativa1\bin\Debug\Tentativa1.pdb
+C:\Users\pamel\Downloads\Tentativa1\Tentativa1\obj\Debug\Tentativa1.csproj.AssemblyReference.cache
+C:\Users\pamel\Downloads\Tentativa1\Tentativa1\obj\Debug\Tentativa1.csproj.CoreCompileInputs.cache
+C:\Users\pamel\Downloads\Tentativa1\Tentativa1\obj\Debug\Tentativa1.exe
+C:\Users\pamel\Downloads\Tentativa1\Tentativa1\obj\Debug\Tentativa1.pdb
+C:\Users\pamel\Downloads\Tentativa1\Tentativa1\obj\Debug\Tentativa1.exe.config
